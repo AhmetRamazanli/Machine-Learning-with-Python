@@ -8,6 +8,6 @@
 #### 4. One is time series analysis of anonymous data
 #### 5. The other is Churn Analysis Project which was my Alumni Project from Coders Azerbaijan.
 #### There is also a dashboard of the project in the dashboard folder
-#### 5. The last one is related with Logistic Regression implementation with parameter tuning to the BreastCancer csv file
+#### 6. The last one is related with Logistic Regression implementation with parameter tuning to the BreastCancer csv file
 @AhmetRamazanli
 Commit new file
